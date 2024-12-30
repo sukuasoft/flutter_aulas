@@ -1,4 +1,4 @@
-package com.example.flutter_app
+package com.sukua.flutteraulas
 
 import io.flutter.embedding.android.FlutterActivity
 
